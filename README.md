@@ -15,7 +15,7 @@ TDD allows us to express intent in the form of a test
 4) Stable state or passing state, (refactor test and code for quality and generality)
 5) Repeat
 
-- Red, Green, Refactor
+- Red, Green, Refractor
 
 Unit testing is about testing
 TDD is about design
@@ -30,11 +30,11 @@ TDD is about design
 
 
 ### Attributes of TDD
-- Modular 
-- Loosely coupled
-- Cohesive
-- Separation of Concerns
-- Information Hiding
+- Modular (broken down into smaller pieces)
+- Loosely coupled (pieces are not tightly bound together)
+- Cohesive (the pieces are closely related are physically close together)
+- Separation of Concerns (each piece is focused on achieving one outcome)
+- Information Hiding (deal with another part of the code without worrying about what is going on)
 
 ### How to use Pytest
 
