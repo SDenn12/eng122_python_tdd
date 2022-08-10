@@ -3,9 +3,10 @@
 ### What is it?
 
  Test Driven Development (TDD) is a software development practice that focuses on creating unit
- test cases before developing the actual code. It is an iterative approach that combines
+ test cases before developing the actual code. It is an iterative approach (AGILE) that combines
  programming, the creation of unit tests, and refactoring.
-- Tiny mistakes have big impacts (AGILE)
+
+Tiny mistakes have big impacts so using a TDD approach can help prevent these errors at the source.
 
 TDD allows us to express intent in the form of a test
 1) Create the tests
